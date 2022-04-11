@@ -1,0 +1,13 @@
+# IDE
+.vscode/
+
+# Database related
+database/data
+
+# Server related
+.env
+__pycache__
+
+# Client related
+.next
+node_modules
